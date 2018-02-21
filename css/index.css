@@ -4,14 +4,9 @@
     font-size: 20px;
 }
 
-body {
-    font-size: 40px;
-}
-
 h1 {
-    color: red;
+    color: rgba(59, 155, 100, 0.1);
     font-family: 'Indie Flower', cursive;
-    font-size: 24px;
     font-size: 2rem;
 }
 
@@ -24,5 +19,5 @@ p::first-letter {
 }
 
 p:hover {
-    color:red;
+    color: red;
 }
